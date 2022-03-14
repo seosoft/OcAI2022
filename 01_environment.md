@@ -72,8 +72,10 @@ Webアプリケーションで広く使われています。
    <img src="./images/01/nodejs_home.jpg" width="480px" />
 
 2. インストーラーがダウンロードできたらインストールします。  
-   インストーラーはほとんどデフォルトのままで進めますが、途中の [Tools for Native Module] の [Automatically install the nescessary tools.] は今回は不要なのでチェックを外して次に進みます。  
+   インストーラーはほとんどデフォルトのままで進めますが、途中の [Tools for Native Module] の [Automatically install the nescessary tools.] は今回は不要なのでチェックを外して次に進みます。
 
    > チェックを入れて次に進んでもこの後の作業には支障はありませんがインストール完了まで時間がかかります。
+
+   <img src="./images/01/nodejs_no_choco.jpg" width="400px" />
 
 3. Node.jsのインストールが完了したら、Windowsのコマンドプロンプトを開きます。
