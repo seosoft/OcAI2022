@@ -65,7 +65,12 @@ Windows専用のアプリケーションで無償で利用できます。
 6. Lobeが起動すればインストール成功です。  
    ここでLobeは終了してかまいません。
    
-   <img src="./images/01/lobe_launch.jpg" width="480px" />
+   > Lobeが起動すると以下のどちらかの画面が表示されるはずです。
+
+   <br />
+
+   <img src="./images/01/lobe_apptop.jpg" width="360px" />
+   <img src="./images/01/lobe_launch.jpg" width="400px" />
 
 <br />
 
